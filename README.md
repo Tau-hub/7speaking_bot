@@ -2,7 +2,7 @@
 
 
 
-Create a file named `creds.py`  ìn the same directory as main.py 
+Create a file named `creds.py`  ìn the same directory as `main.py`. 
 
 Add two variables in it : 
 

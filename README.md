@@ -11,6 +11,11 @@ user = 'mymail@mail.fr'
 password = '<my_password>'
 ````
 
+Add selenium package 
+````sh
+pip install selenium
+````
+
 Check if the path of firefox in `main.py` is the same as yours.
 
 You can go !
